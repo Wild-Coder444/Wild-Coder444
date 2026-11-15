@@ -41,4 +41,103 @@ Hey! I'm **Kunal**, a Computer Science Engineering student who loves exploring t
 ### ⚙️ Backend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+</p>
+
+### 🐍 Python & Data Science
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,anaconda&theme=dark" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+### 🔧 Tools I Use
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,docker,linux&theme=dark" />
+
+<br><br>
+
+| Technology | Focus |
+|:---|:---|
+| 📊 Data Science | Data Analysis & Machine Learning |
+| 📈 Data Analytics | Data Visualization |
+| 🤖 AI Engineering | Artificial Intelligence |
+| 🔐 Cybersecurity | Security Fundamentals |
+| ☁️ DevOps | Development & Operations |
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Code • Learn • Build • Repeat
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C9FF&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+profile!;Have+a+great+day!+%E2%9C%A8"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=120&section=footer" width="100%"/>
+
+</div>
