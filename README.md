@@ -100,7 +100,7 @@ Hey! I'm **Kunal**, a Computer Science Engineering student who loves exploring t
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/> -->
 
 </div>
 
@@ -110,7 +110,7 @@ Hey! I'm **Kunal**, a Computer Science Engineering student who loves exploring t
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<!-- <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/> -->
 
 </div>
 
